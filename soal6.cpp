@@ -16,5 +16,5 @@ int main() {
 }
 
 // Dimulai dengan i = 2, kemudian setiap kali sudah melakukan 1 perulangan, maka, nilai i akan bertambah 2
-// Lalu setiap bilangan genap di kuadratkan 
+// Lalu setiap bilangan genap di kuadratkan lalu dijumlahin
 // loop berhenti saat i > n
